@@ -1,37 +1,58 @@
-Hola, soy Mauricio Chavarría 👋
+<h1 align="center">Hola 👋, soy Mauricio Chavarría</h1>
 
-🎓 Estudiante de Ingeniería en Sistemas Computacionales  
-📍 La Paz, Honduras  
-💻 Interesado en desarrollo de software, aplicaciones web y soporte técnico
+<p align="center">
+  Estudiante de Ingeniería en Sistemas | Desarrollo de software | Soporte técnico
+</p>
 
-obre mí
-Soy estudiante de Ingeniería en Sistemas y desarrollador en formación. Me gusta crear soluciones prácticas, aprender nuevas tecnologías y trabajar en proyectos que respondan a necesidades reales.
-Actualmente trabajo en proyectos de desarrollo web y herramientas de diagnóstico de hardware.
+---
 
-Habilidades
+## Acerca de mí
 
-- **Programación:** Python, Java
-- **Bases de datos:** MySQL, SQL Server
-- **Desarrollo web:** React, Next.js, TypeScript
-- **Backend y servicios:** Supabase
-- **Sistemas:** Linux, Windows y Kali Linux
-- **Otros intereses:** OpenGL, soporte técnico y fundamentos de ciberseguridad
+Soy estudiante de Ingeniería en Sistemas Computacionales en Honduras. Me interesa crear soluciones de software prácticas y seguir desarrollando mis habilidades en programación, desarrollo web y soporte técnico.
 
-Proyectos
+Tengo experiencia en soporte de equipos, instalación de centros de cómputo, resolución de problemas técnicos y producción audiovisual.
 
-Rancing Mau
-Catálogo web de repuestos para motocicletas con administración de productos, sucursales, búsqueda y solicitudes de compra por WhatsApp.
+## Habilidades
 
-Tecnologías: Next.js, React, TypeScript y Supabase.
+- Programación con **Python** y **Java**
+- Bases de datos con **MySQL** y **SQL Server**
+- Desarrollo web con **React**, **Next.js** y **TypeScript**
+- Uso de **Supabase** para bases de datos, autenticación y almacenamiento
+- Sistemas operativos **Linux**, **Windows** y **Kali Linux**
+- Diagnóstico y soporte técnico de computadoras
+- Conocimientos de **OpenGL** y fundamentos de ciberseguridad
 
-DiagnosQui
-Herramienta en Python para consultar y mostrar información del hardware en Linux y Windows.
+## Tecnologías
 
-Actualmente aprendiendo
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+## Proyectos destacados
+
+### Rancing Mau
+
+Plataforma web para un catálogo de repuestos de motocicleta. Incluye administración de productos y sucursales, búsqueda y solicitudes de compra por WhatsApp.
+
+**Tecnologías:** Next.js, React, TypeScript y Supabase.
+
+### DiagnosQui
+
+Proyecto en Python para consultar y mostrar información de hardware en Linux y Windows.
+
+**Tecnologías:** Python y psutil.
+
+## Actualmente aprendiendo
+
 - Desarrollo de aplicaciones y sitios web
-- Seguridad informática
-- Mejores prácticas para diseñar, probar y documentar software
+- Buenas prácticas de programación y documentación
+- Ciberseguridad y administración de sistemas
 
-Contacto
--Gmail. freepayerhn@gamil.com
+## Contacto
+
 - GitHub: [@MAURICIO-CHAVARRIA-HN](https://github.com/MAURICIO-CHAVARRIA-HN)
