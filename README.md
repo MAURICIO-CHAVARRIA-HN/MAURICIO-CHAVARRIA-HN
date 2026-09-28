@@ -1,44 +1,37 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+Hola, soy Mauricio Chavarría 👋
 
-###
+🎓 Estudiante de Ingeniería en Sistemas Computacionales  
+📍 La Paz, Honduras  
+💻 Interesado en desarrollo de software, aplicaciones web y soporte técnico
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-</div>
+obre mí
+Soy estudiante de Ingeniería en Sistemas y desarrollador en formación. Me gusta crear soluciones prácticas, aprender nuevas tecnologías y trabajar en proyectos que respondan a necesidades reales.
+Actualmente trabajo en proyectos de desarrollo web y herramientas de diagnóstico de hardware.
 
-###
+Habilidades
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-</div>
+- **Programación:** Python, Java
+- **Bases de datos:** MySQL, SQL Server
+- **Desarrollo web:** React, Next.js, TypeScript
+- **Backend y servicios:** Supabase
+- **Sistemas:** Linux, Windows y Kali Linux
+- **Otros intereses:** OpenGL, soporte técnico y fundamentos de ciberseguridad
 
-###
+Proyectos
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+Rancing Mau
+Catálogo web de repuestos para motocicletas con administración de productos, sucursales, búsqueda y solicitudes de compra por WhatsApp.
 
+Tecnologías: Next.js, React, TypeScript y Supabase.
 
+DiagnosQui
+Herramienta en Python para consultar y mostrar información del hardware en Linux y Windows.
+
+Actualmente aprendiendo
+- Desarrollo de aplicaciones y sitios web
+- Seguridad informática
+- Mejores prácticas para diseñar, probar y documentar software
+
+Contacto
+-Gmail. freepayerhn@gamil.com
+- GitHub: [@MAURICIO-CHAVARRIA-HN](https://github.com/MAURICIO-CHAVARRIA-HN)
