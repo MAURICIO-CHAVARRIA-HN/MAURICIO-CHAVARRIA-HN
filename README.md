@@ -56,3 +56,4 @@ Proyecto en Python para consultar y mostrar información de hardware en Linux y 
 ## Contacto
 
 - GitHub: [@MAURICIO-CHAVARRIA-HN](https://github.com/MAURICIO-CHAVARRIA-HN)
+- Gmail. Freepayerhn@gmail.com
